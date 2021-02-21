@@ -1,2 +1,4 @@
 server:
   port: 8093
+info:
+  master: 12324324
